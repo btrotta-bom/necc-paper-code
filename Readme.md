@@ -1,6 +1,6 @@
 # Neighbourhood ensemble copula coupling
 
-The code implements 3 variants of ensemble copula coupling:
+The code implements 5 variants of ensemble copula coupling:
 
 1. Standard ECC
 2. Smoothed ECC

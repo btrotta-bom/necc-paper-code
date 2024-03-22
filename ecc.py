@@ -1,6 +1,7 @@
 """Implements variants of ECC, including that described in Section 3f of 
-Scheuerer and Hamill, Generating calibrated ensembles of physically realistic, high-resolution
-precipitation forecast fields based on GEFS model output. Journal of Hydrometeorology, 2018."""
+Scheuerer and Hamill (2018), Generating calibrated ensembles of physically realistic, high-resolution
+precipitation forecast fields based on GEFS model output. Journal of Hydrometeorology, 19. https://doi.org/10.1175/JHM-D-18-0067.1
+"""
 
 import iris
 import numpy as np
